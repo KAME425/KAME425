@@ -1,13 +1,18 @@
 <html>
-
 <body>
 <div>
-
-👤 <strong>Marco (17)</strong><br>
-📍 Based in <strong>BY, Germany</strong><br>
+  
+<h1 align="left"><u>About me</u></h1>
+  
+<p>
+  - 👤 <b>Marco (17)</b><br>
+  - ⭐ Checkout my <a href="https://github.com/KAME425?tab=repositories">Repositories</a><br>
+  - 📌 Based in <b>BY, Germany</b>
+</p>
+  
 <br>
   
-<strong>List of my skills:</strong><hr>
+<h1 align="left"><u>Languages and Technologies</u></h1>
 
 <div class="badges">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -21,19 +26,14 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
-<br><br>
-<strong>IDEs & CodeEditors in use:</strong><hr>
-<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<br><br><br>
-
-<div class="stats">
+<!-- <div class="stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAME425" /><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KAME425"/><br>
 </div>
-
-<br>
-<strong>Contact me via</strong>
+-->
+  
+<br><br>
+<b>Contact me:</b>
 <div class="discord">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
